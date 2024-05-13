@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://rickyhewitt.dev/projects](https://rickyhewitt.dev/projects)
 
-- 📝 I regularly write articles on [https://blog.rickyhewitt.dev](https://blog.rickyhewitt.dev)
+- 📝 I write articles on [https://blog.rickyhewitt.dev](https://blog.rickyhewitt.dev)
 
-- 📫 How to reach me **hello@rickyhewitt.dev**
+- 📫 How to reach me: **hello@rickyhewitt.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
