@@ -28,10 +28,5 @@
 
 <p><br /></p>
 
-<h3 align="left">Certifications:</h3>
-<a href="https://www.comptia.org/certifications/a" target="_blank" rel="noreferrer"> <img src="https://fgcucdn.fgcu.edu/academics/innovate/online/images/logo-comptia-aplus.png" alt="CompTIA A+" width="45" height="40"/> </a>
-
-<p><br /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickyhewitt&show_icons=true&locale=en" alt="rickyhewitt" /></p>
 
