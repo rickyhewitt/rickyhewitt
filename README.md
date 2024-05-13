@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rickyhewitt_dev" target="blank"><img src="https://img.shields.io/twitter/follow/rickyhewitt_dev?logo=twitter&style=for-the-badge" alt="rickyhewitt_dev" /></a> </p>
 
-- 🔭 I’m currently studying **Bachelor of Science - Combined STEM, specializing in Computing & Health Science**. I'm also studying towards my AWS Cloud Practitioner & CompTIA Network+ certifications.
+- 🔭 I’m currently studying **Bachelor of Science - Combined STEM (Computing, Health Science)**, along with working towards AWS Cloud Practitioner & CompTIA Network+ certifications.
 
 - 🌱 I’m currently learning **Ruby (+Rails)**
 
