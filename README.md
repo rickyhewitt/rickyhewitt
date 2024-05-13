@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **Bachelor of Science - Combined STEM (Computing, Health Science)**
 
-- 🌱 I’m currently learning **Ruby (Rails), Rust, Go**
+- 🌱 I’m currently learning **Ruby (Rails)**
 
 - 👨‍💻 All of my projects are available at [https://rickyhewitt.dev/projects](https://rickyhewitt.dev/projects)
 
