@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rickyhewitt_dev" target="blank"><img src="https://img.shields.io/twitter/follow/rickyhewitt_dev?logo=twitter&style=for-the-badge" alt="rickyhewitt_dev" /></a> </p>
 
-- 🔭 I’m currently studying my **Bachelor of Science - Combined STEM degree (Computing, Health Science)**
+- 🔭 I’m currently studying my **Bachelor of Science - Combined STEM (Computing, Health Science)**
   
 - 🌱 I’m currently learning **Java**
 
