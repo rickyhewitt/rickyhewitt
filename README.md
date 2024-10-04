@@ -2,11 +2,11 @@
 
 <a href="https://twitter.com/rickyhewitt_dev" target="blank"><img src="https://img.shields.io/twitter/follow/rickyhewitt_dev?logo=twitter&style=for-the-badge" alt="rickyhewitt_dev" /></a>
 
-- 🔭 I’m currently studying my **Bachelor of Science - Combined STEM (Computer Science, Health Science)**
+- 🔭 I’m currently studying my **Bachelor of Science - Combined STEM (Specializing in Computer Science & Health Science)**
 
 - 👨‍💻 My projects are available at [https://rickyhewitt.dev/projects](https://rickyhewitt.dev/projects)
 
-- 📝 I write articles on [https://blog.rickyhewitt.dev](https://blog.rickyhewitt.dev)
+- 📝 I write articles on [https://rickyhewitt.dev/blog](https://rickyhewitt.dev/blog)
 
 - 📫 How to reach me: **hello@rickyhewitt.dev**
 
