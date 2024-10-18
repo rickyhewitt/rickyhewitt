@@ -7,6 +7,6 @@
 
 - Presently my primary programming languages are Python & Java.
 
-- 📝 I write articles on [https://rickyhewitt.dev/blog](https://rickyhewitt.dev/blog)
+- 📝 I write articles on [https://rickyhewitt.dev/posts](https://rickyhewitt.dev/posts)
 
 - I hold certifications from AWS (Cloud Practitioner) & CompTIA (A+), and am presently also pursuing the Cisco CCST (Networking) certification.
