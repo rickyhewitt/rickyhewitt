@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Rick</h1>
+<h2>Hi 👋, I'm Rick</h2>
 
 - I’m currently studying **Bachelor of Science - Combined STEM (Specializing in Computer Science & Health Science)**
     - My academic focus this year covers: Networking, Linux, Robotics & AI, Health Science and Mathematics.
