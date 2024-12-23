@@ -5,8 +5,8 @@
 
 - 💼 In the past I have been employed as a Python developer with [artlogic.net](https://artlogic.net), and more recently a WordPress developer with [kpopina.com](https://kpopina.com). I also spent a number of years as a self-employed WordPress & Python developer working for [a variety of clients](https://rickyhewitt.dev/portfolio).
 
-- Presently my primary programming languages are Python & Java.
+- I am presently primarily working with Python & Java. I am also presently learning golang. In the past I have worked with many other languages including PHP, Javascript, C++, and of course HTML/CSS, bash, and other scripting/templating languages.
 
-- 📝 I write articles on [https://rickyhewitt.dev/posts](https://rickyhewitt.dev/posts)
+- 📝 My musings can be found on [https://x.com/rickyhewitt_dev](https://x.com/rickyhewitt_dev)
 
 - I hold certifications from AWS (Cloud Practitioner) & CompTIA (A+), and am presently also pursuing the Cisco CCST (Networking) certification.
