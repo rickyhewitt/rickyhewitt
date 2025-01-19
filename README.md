@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Rick</h2>
 
 - I’m currently studying **Bachelor of Science - Combined STEM (Specializing in Computer Science & Health Sciences)**
-    - My academic modules this year include: Cisco Networking, Operating Systems & Cybersecurity, Robotics & AI, Mathematics, and Health Sciences.
+    - My academic modules this year cover: Cisco Networking, Operating Systems & Cybersecurity, Robotics & AI, Mathematics, and Health Sciences.
 
 - 💼 In the past I have been employed as a Python developer with [Artlogic](https://artlogic.net). I also spent a number of years as a self-employed WordPress & Python developer working with [a variety of clients](https://rickyhewitt.dev/portfolio), including [Kpopina](https://x.com/kpopinarab), [Apollo Instruments](https://apollo-instruments.com), and many others.
 
