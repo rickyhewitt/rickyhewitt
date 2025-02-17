@@ -3,7 +3,7 @@
 - I’m currently studying **Bachelor of Science - Combined STEM (Specializing in Computer Science & Health Sciences)**
     - My academic modules this year cover: Cisco Networking, Operating Systems & Cybersecurity, Robotics & AI, Mathematics, and Health Sciences.
 
-- Presently I am also working as a Medical Editor Intern with Klarity -- a digital health startup specializing in AI-led
+- Presently I am working as a Medical Editor Intern with Klarity, which is a digital health startup specializing in AI-led
 risk prediction models.
 
 - 💼 My past professional experience includes having been employed by [Artlogic](https://artlogic.net), in addition to having been a freelance developer. Some of my personal clients included [Kpopina](https://x.com/kpopinarab), [Apollo Instruments](https://apollo-instruments.com), and [many others](https://rickyhewitt.dev/portfolio).
