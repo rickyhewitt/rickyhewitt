@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Rick</h2>
 
 - I’m currently studying **Bachelor of Science - Combined STEM (Specializing in Computer Science & Health Sciences)**
-    - My academic modules this year cover: Cisco Networking, Operating Systems & Cybersecurity, Robotics & AI, Mathematics, and Health Sciences.
+    - My academic studies this year cover: Cisco Networking, Operating Systems & Cybersecurity, Robotics & AI, Mathematics, and Health Sciences.
 
 - Presently I am working as a Medical Editor Intern with Klarity, a digital health startup specializing in AI-led
 risk prediction models.
