@@ -2,7 +2,7 @@
 
 - I’m currently studying **Bachelor of Science - Combined STEM (Specializing in Computer Science & Health Sciences)**
 
-- 💼 My past professional experience includes working for [Artlogic](https://artlogic.net), in addition to having been a freelance developer. Some of my personal clients included [Kpopina](https://x.com/kpopinarab), [Apollo Instruments](https://apollo-instruments.com), and [many others](https://rickyhewitt.dev/portfolio). I have also worked and consulted with public sector agencies, including the Department for Education (DfE) and the HM Courts and Tribunals service.
+- 💼 My past professional experience includes working for [Artlogic](https://artlogic.net), in addition to having been a freelance developer. Some of my personal clients included [Kpopina](https://x.com/kpopinarab), [Apollo Instruments](https://apollo-instruments.com), and [many others](https://rickyhewitt.dev/portfolio), including public sector agencies such as the Department for Education (DfE) and the HM Courts and Tribunals service.
 
 - I have also worked as a Medical Editor intern with [Klarity](https://klarity.health), a digital health startup specializing in AI-led
 risk prediction models.
